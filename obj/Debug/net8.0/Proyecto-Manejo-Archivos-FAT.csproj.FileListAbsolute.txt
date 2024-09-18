@@ -1,0 +1,14 @@
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\bin\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.exe
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\bin\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.deps.json
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\bin\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.runtimeconfig.json
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\bin\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.dll
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\bin\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.pdb
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.AssemblyInfoInputs.cache
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.AssemblyInfo.cs
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.csproj.CoreCompileInputs.cache
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.dll
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\refint\Proyecto-Manejo-Archivos-FAT.dll
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.pdb
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\Proyecto-Manejo-Archivos-FAT.genruntimeconfig.cache
+C:\Users\jdani\Desktop\Proyecto-Manejo-Archivos-FAT\obj\Debug\net8.0\ref\Proyecto-Manejo-Archivos-FAT.dll
